@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\c\数据结构.c\游戏\斗地主\Project1\Project1\源.cpp(612,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\c\数据结构.c\游戏\斗地主\Project1\Project1\源.cpp(690): warning C4715: “cidian”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> D:\c\数据结构.c\游戏\斗地主\Project1\x64\Debug\Project1.exe
